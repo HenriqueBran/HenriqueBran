@@ -1,6 +1,6 @@
 
-### Bem-vind ao meu Github! 👨🏾‍💻<br/>
-###  Front-end 👾<br/>
+### Hello World! 👋🏾👨🏾‍💻
+###  Desenvolvedor Front-end 👾<br/>
 
 
 
@@ -9,7 +9,7 @@
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/henriquehba)
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://app.netlify.com/sites/adidas-site/overview) 
 
-![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrybrand20&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henriquebran&show_icons=true&theme=transparent)
 
 ### Tecnologias que uso no meu dia 
 
