@@ -25,5 +25,5 @@
 Estudante na área de Segurança da Informação migrando para Analise e Desenvolvimento de Sistemas. Altamente motivado e apaixonado por programação e resolução de problemas e em constante aprendizado com as últimas tecnologias e tendências. 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrybrand20&hide_progress=true)
+
 
