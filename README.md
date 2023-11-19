@@ -23,7 +23,7 @@
 
 </div><br/>
 
-Estudante na área de Segurança da Informação migrando para Analise e Desenvolvimento de Sistemas. Altamente motivado e apaixonado por programação e resolução de problemas e em constante aprendizado com as últimas tecnologias e tendências. 
+Estudante na área de Segurança da Informação e Desenvolvimento Front-end, com Habilidades sólidas na criação de interfaces atraentes e funcionais, capaz de integrar medidas de segurança em projetos front-end, assegurando que as aplicações sejam robustas e protegidas para garantir a experiência do usuário. Busco uma oportunidade de estágio na área de TI, onde posso aplicar e expandir meus conhecimentos em programação, administração de sistemas, cibersegurança e suporte técnico.
 <br/>
 
 
