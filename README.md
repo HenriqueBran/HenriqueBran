@@ -1,6 +1,6 @@
 
 ### Hello World! 👋🏾👨🏾‍💻
-###  Desenvolvedor Front-end 👾<br/>
+###  Analista de Segurança da Informação e Desenvolvedor Front-end 👾<br/>
 
 
 
