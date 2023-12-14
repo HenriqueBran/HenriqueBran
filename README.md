@@ -1,6 +1,6 @@
 
 ### Hello World! 👋🏾👨🏾‍💻
-###  Analista de Segurança da Informação e Desenvolvedor Front-end 👾<br/>
+###  Analista de Segurança da Informação e Desenvolvedor Web Full Stack 👾<br/>
 
 
 
@@ -24,7 +24,7 @@
 
 </div><br/>
 
-Estudante na área de Segurança da Informação e Desenvolvimento Front-end, com Habilidades sólidas na criação de interfaces atraentes e funcionais, capaz de integrar medidas de segurança em projetos front-end, assegurando que as aplicações sejam robustas e protegidas para garantir a experiência do usuário. Busco uma oportunidade de estágio na área de TI, onde posso aplicar e expandir meus conhecimentos em programação, administração de sistemas, cibersegurança e suporte técnico.
+Estudante na área de Segurança da Informação e Desenvolvimento web Full Stack(com foco em front-end), buscando integrar conhecimentos técnicos e práticos com Habilidades na criação de interfaces atraentes e funcionais. Ao longo da minha jornada acadêmica, estou adquirindo habilidades sólidas em ambas as áreas, combinando o entendimento aprofundado da segurança cibernética com a capacidade de desenvolver interfaces eficientes, atraentes e funcionais. Busco uma oportunidade de estágio na área de TI, onde posso aplicar e expandir meus conhecimentos em programação, administração de sistemas, cibersegurança e suporte técnico.
 <br/>
 
 
