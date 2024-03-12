@@ -30,7 +30,9 @@
 
 </div><br/>
 
-Estudante na área de Segurança da Informação e Desenvolvimento web Full Stack(com foco em front-end), buscando integrar conhecimentos técnicos e práticos com Habilidades na criação de interfaces atraentes e funcionais. Ao longo da minha jornada acadêmica, estou adquirindo habilidades sólidas em ambas as áreas, combinando o entendimento aprofundado da segurança cibernética com a capacidade de desenvolver interfaces eficientes, atraentes e funcionais. Focado pela segurança tanto do usuário quanto do cliente, para que ambos os lados tenham experiências incríveis e seguras. Busco uma oportunidade de estágio na área de TI, onde posso aplicar e expandir meus conhecimentos em programação, administração de sistemas, cibersegurança e suporte técnico.
+Como estudante na área de Segurança da Informação e Desenvolvimento Web Full Stack, focando principalmente no front-end, estou buscando juntar conhecimentos práticos e técnicos para criar interfaces que sejam não apenas bonitas, mas também funcionais. Durante minha trajetória acadêmica, venho desenvolvendo habilidades sólidas nessas áreas, combinando um bom entendimento de segurança cibernética com a capacidade de criar interfaces eficientes, atrativas e práticas.
+
+Atualmente, estou aprendendo sobre C# e ASP .NET, além de DOT .NET, sempre com o objetivo de garantir a segurança tanto dos usuários quanto dos clientes, para proporcionar experiências online seguras e incríveis. Estou em busca de uma oportunidade de estágio na área de TI, onde posso aplicar e expandir meus conhecimentos em programação, administração de sistemas, cibersegurança e suporte técnico. Juntos, podemos criar um ambiente digital seguro e inovador.
 <br/>
 
 
