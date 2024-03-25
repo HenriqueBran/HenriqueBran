@@ -32,8 +32,7 @@
 
 Como estudante na área de Segurança da Informação e Desenvolvimento Web Full Stack, focando principalmente no front-end, estou buscando juntar conhecimentos práticos e técnicos para criar interfaces que sejam não apenas bonitas, mas também funcionais. Durante minha trajetória acadêmica, venho desenvolvendo habilidades sólidas nessas áreas, combinando um bom entendimento de segurança cibernética com a capacidade de criar interfaces eficientes, atrativas e práticas.
 
-Atualmente, estou aprendendo sobre C# e ASP .NET, além de DOT .NET, sempre com o objetivo de garantir a segurança tanto dos usuários quanto dos clientes, para proporcionar experiências online seguras e incríveis. 
-<br/>
+
 
 
 
