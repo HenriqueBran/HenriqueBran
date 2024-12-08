@@ -33,7 +33,7 @@
 
 </div><br/>
 
-Análista de Segurança da Informação e Desenvolvedor Web Full Stack, focando principalmente no front-end, estou buscando juntar conhecimentos práticos e técnicos para criar interfaces que sejam não apenas bonitas, mas também funcionais. Durante minha trajetória acadêmica, venho desenvolvendo habilidades sólidas nessas áreas, combinando um bom entendimento de segurança cibernética com a capacidade de criar interfaces eficientes, atrativas e práticas.
+Como analista de Segurança da Informação e Desenvolvedor Web Full Stack, focando principalmente no front-end, estou buscando juntar conhecimentos práticos e técnicos para criar interfaces que sejam não apenas bonitas, mas também funcionais. Durante minha trajetória acadêmica, venho desenvolvendo habilidades sólidas nessas áreas, combinando um bom entendimento de segurança cibernética com a capacidade de criar interfaces eficientes, atrativas e práticas.
 
 
 
