@@ -33,9 +33,7 @@
 
 </div><br/>
 
-Sou formado em Segurança da Informação pela Universidade Nove de Julho (Uninove) e em Desenvolvimento Web Full Stack pelo Instituto PROA, com certificação do SENAC. Atualmente, estou me aprofundando na área de Cloud Security, com foco em compreender as melhores práticas de segurança em ambientes em nuvem, gerenciamento de acessos, conformidade e proteção de dados.
-
-Tenho experiência como Analista de TI e Desenvolvedor Full Stack (front-end), além de projetos envolvendo IoT, segurança cibernética e interfaces web seguras, o que me proporciona uma base sólida para atuar com segurança em nuvem de forma integrada, técnica e estratégica.
+Analista de Segurança da Informação e Desenvolvedor Web Full Stack, com foco em front-end. Formação técnica em Desenvolvimento Web (certificação SENAC) e graduação tecnológica em Segurança da Informação pela Universidade Nove de Julho (Uninove).
 
 
 
