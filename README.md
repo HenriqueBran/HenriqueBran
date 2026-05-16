@@ -7,7 +7,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-brand%C3%A3o-de-arruda-a79375228/) 
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://app.netlify.com/teams/henrybrand20/overview) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henriquebran&show_icons=true&theme=transparent)
 
 ### Tecnologias que uso no meu dia 
 
@@ -28,7 +27,6 @@
   
   
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquebran&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
   
 
 </div><br/>
