@@ -30,7 +30,7 @@
 
 </div><br/>
 
-Analista de Segurança da Informação e Desenvolvedor Web Full Stack, com foco em front-end. Formação técnica em Desenvolvimento Web (certificação SENAC) e graduação tecnológica em Segurança da Informação pela Universidade Nove de Julho (Uninove).
+
 
 
 
