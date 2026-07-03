@@ -1,5 +1,5 @@
 
-###  Analista de Segurança da Informação e Desenvolvedor Web Front-end 👾👨🏿‍💻<br/>
+###  Analista de Segurança da Informação e Desenvolvedor Web 👾👨🏿‍💻<br/>
 
 
 
